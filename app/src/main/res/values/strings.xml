@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PetShopAssist</string>
+    <string name="txt_special">特殊顾客</string>
+    <string name="txt_stranger">普通顾客</string>
+    <string name="txt_stylist">特殊造型</string>
+    <string name="txt_levelup">等级解锁</string>
+</resources>
